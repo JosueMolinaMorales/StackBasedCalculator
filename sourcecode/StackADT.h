@@ -6,7 +6,7 @@
 
 /** 
  * @file:   StackADT.h
- * @author: cwood
+ * @author: josue m
  * @class:  StackADT
  *
  * Created on March 3, 2019, 10:20 AM
