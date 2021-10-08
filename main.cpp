@@ -6,7 +6,7 @@
 
 /* 
  * @file:   Arithmetic.cpp
- * @author: cwood
+ * @author: josue m
  *
  * Created on March 3, 2019, 11:02 AM
  */
