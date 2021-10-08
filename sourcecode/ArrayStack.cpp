@@ -6,7 +6,7 @@
 
 /** 
  * @file:   ArrayStack.cpp
- * @author: cwood
+ * @author: josue m
  * @class:  ArrayStack
  * 
  * Created on March 3, 2019, 10:22 AM
