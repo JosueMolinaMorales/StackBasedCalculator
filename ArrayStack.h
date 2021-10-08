@@ -6,7 +6,7 @@
 
 /* 
  * File:   ArrayStack.h
- * Author: cwood
+ * Author: josue m
  *
  * Created on March 3, 2019, 10:22 AM
  */
